@@ -1,0 +1,10 @@
+{
+  "modid": "OsrsBob",
+  "name": "OsrsBob Mod",
+  "author_list": ["killmequickdeal"],
+  "description": "Adds a new playable character, Bob",
+  "version": "0.1",
+  "sts_version": "01-3-2019",
+  "mts_version": "3.7.4",
+  "dependencies": ["basemod, modthespire, stslib"]
+}
