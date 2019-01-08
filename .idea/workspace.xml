@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea0a1645-5323-4195-9cf7-7b5037d4b007" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Riley.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/nieve/IroncladBlackBlood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/nieve/cards/AbstractNieveCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/nieve/cards/Strike_Nieve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/nieve/characters/NieveCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/nieve/patches/AbstractCardEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/nieve/patches/LibraryTypeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/nieve/patches/NieveEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BobMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/nieve/NieveMod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PostCreateIroncladStartingRelicsSubscriber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SampleMod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/sendToDevs/logs/SlayTheSpire.log" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sendToDevs/logs/SlayTheSpire.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java.nieve/IroncladBlackBlood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nieve/IroncladBlackBlood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java.nieve/NieveMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nieve/NieveMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java.nieve/cards/AbstractNieveCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nieve/cards/AbstractNieveCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java.nieve/cards/Strike_Nieve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nieve/cards/Strike_Nieve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java.nieve/characters/NieveCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nieve/characters/NieveCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java.nieve/patches/AbstractCardEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nieve/patches/AbstractCardEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java.nieve/patches/LibraryTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nieve/patches/LibraryTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java.nieve/patches/NieveEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nieve/patches/NieveEnum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -84,10 +80,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/nieve/IroncladBlackBlood.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nieve/IroncladBlackBlood.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
-              <caret line="70" column="65" selection-start-line="70" selection-start-column="65" selection-end-line="70" selection-end-column="65" />
+            <state relative-caret-position="221">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/nieve/NieveMod.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nieve/NieveMod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
+            <state relative-caret-position="204">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#564#565#0" expanded="true" />
@@ -114,10 +110,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/nieve/characters/NieveCharacter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nieve/characters/NieveCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="110" column="26" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+            <state relative-caret-position="374">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3852#3853#0" expanded="true" />
@@ -153,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/nieve/cards/Strike_Nieve.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nieve/cards/Strike_Nieve.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="170">
+              <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -166,10 +162,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/nieve/cards/AbstractNieveCard.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nieve/cards/AbstractNieveCard.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -178,7 +174,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/nieve/patches/AbstractCardEnum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nieve/patches/AbstractCardEnum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
@@ -190,7 +186,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/nieve/patches/LibraryTypeEnum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nieve/patches/LibraryTypeEnum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
@@ -211,7 +207,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/nieve/patches/NieveEnum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nieve/patches/NieveEnum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
@@ -255,6 +251,8 @@
         <option value="$PROJECT_DIR$/src/main/nieve/cards/AbstractNieveCard.java" />
         <option value="$PROJECT_DIR$/src/main/nieve/NieveMod.java" />
         <option value="$PROJECT_DIR$/src/main/nieve/cards/Strike_Nieve.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nieve/characters/cards/Strike_Nieve.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nieve/characters/NieveCharacter.java" />
       </list>
     </option>
   </component>
@@ -314,31 +312,15 @@
               <item name="my_mods" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="nieve" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OsrsMod" type="b2602c69:ProjectViewProjectNode" />
               <item name="my_mods" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="nieve" type="462c0819:PsiDirectoryNode" />
-              <item name="cards" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsrsMod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_mods" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="nieve" type="462c0819:PsiDirectoryNode" />
-              <item name="characters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsrsMod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_mods" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="nieve" type="462c0819:PsiDirectoryNode" />
-              <item name="patches" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OsrsMod" type="b2602c69:ProjectViewProjectNode" />
@@ -364,7 +346,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546913171941" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546913233221" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/nieve" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/ModTheSpire.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -398,7 +380,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="356" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -475,7 +456,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/nieve/patches/NieveEnum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nieve/patches/NieveEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
@@ -499,7 +480,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/nieve/patches/LibraryTypeEnum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nieve/patches/LibraryTypeEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
@@ -509,7 +490,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/nieve/patches/AbstractCardEnum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nieve/patches/AbstractCardEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
@@ -519,20 +500,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/nieve/IroncladBlackBlood.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nieve/cards/AbstractNieveCard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="70" column="65" selection-start-line="70" selection-start-column="65" selection-end-line="70" selection-end-column="65" />
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/nieve/characters/NieveCharacter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nieve/cards/Strike_Nieve.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="110" column="26" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+        <state relative-caret-position="170">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nieve/characters/NieveCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3852#3853#0" expanded="true" />
@@ -567,20 +558,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/nieve/cards/AbstractNieveCard.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nieve/IroncladBlackBlood.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/nieve/NieveMod.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nieve/NieveMod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#564#565#0" expanded="true" />
@@ -589,16 +580,6 @@
             <element signature="e#552#553#0" expanded="true" />
             <element signature="e#2384#2385#0" expanded="true" />
             <element signature="e#2421#2422#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/nieve/cards/Strike_Nieve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

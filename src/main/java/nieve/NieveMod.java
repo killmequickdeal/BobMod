@@ -1,10 +1,12 @@
+package nieve;
+
 import static basemod.DevConsole.logger;
 import basemod.interfaces.EditCharactersSubscriber;
-import characters.NieveCharacter;
+import nieve.characters.NieveCharacter;
 import com.evacipated.cardcrawl.modthespire.lib.SpireInitializer;
 import basemod.BaseMod;
-import patches.AbstractCardEnum;
-import patches.NieveEnum;
+import nieve.patches.AbstractCardEnum;
+import nieve.patches.NieveEnum;
 
 
 @SpireInitializer
@@ -47,13 +49,13 @@ public class NieveMod implements EditCharactersSubscriber
 	@Override
 	public void receiveEditCharacters()
 	{
-		logger.info("begin editing characters");
+		logger.info("begin editing nieve.characters");
 
 		logger.info("add " + NieveEnum.NIEVE.toString());
 		nieveCharacter = new NieveCharacter("Nieve", NieveEnum.NIEVE);
 		BaseMod.addCharacter(nieveCharacter, getResourcePath("charSelect/button.png"), getResourcePath("charSelect/portrait.png"), NieveEnum.NIEVE);
 
-		logger.info("done editing characters");
+		logger.info("done editing nieve.characters");
 	}
 
 	public static String makeID(String baseText) {

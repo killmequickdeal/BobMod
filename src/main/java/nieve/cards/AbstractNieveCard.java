@@ -1,4 +1,4 @@
-package cards;
+package nieve.cards;
 
 import basemod.abstracts.CustomCard;
 import com.megacrit.cardcrawl.characters.AbstractPlayer;

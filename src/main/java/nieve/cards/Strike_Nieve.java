@@ -1,6 +1,5 @@
 package nieve.cards;
 
-import cards.AbstractNieveCard;
 import com.megacrit.cardcrawl.cards.AbstractCard;
 import com.megacrit.cardcrawl.characters.AbstractPlayer;
 import com.megacrit.cardcrawl.localization.CardStrings;
